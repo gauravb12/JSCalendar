@@ -1,1 +1,1 @@
-#JSCalendar
+#This is javascript code for JSCalendar
